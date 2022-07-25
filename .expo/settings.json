@@ -1,0 +1,10 @@
+{
+  "hostType": "lan",
+  "lanType": "ip",
+  "devClient": true,
+  "dev": true,
+  "minify": false,
+  "urlRandomness": null,
+  "https": false,
+  "scheme": "com.googleusercontent.apps.454039136904-et03vrgh2h2dn5vp5jlpaiqvcgcgobor"
+}
